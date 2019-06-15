@@ -8,5 +8,6 @@ intend to reproducing the original result of the papers of MobileNet, ShuffleNet
 
     Python>=3.6
     PyTorch>=1.0
+    torchsummary
 
     
