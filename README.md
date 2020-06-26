@@ -11,3 +11,4 @@ intend to reproducing the original result of the papers of MobileNet, ShuffleNet
     torchsummary
 
     
+I have no GPU resources to finish my train and test code, I really appreciate it if you can provide me with GPU device, please write at qixuxiang@outlook.com
